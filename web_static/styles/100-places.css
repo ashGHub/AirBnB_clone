@@ -80,3 +80,63 @@
 .number_bathrooms .icon3 {
     background-image: url('../images/icon_bath.png');
 }
+
+.amenities {
+    margin-top: 40px;
+}
+
+.amenities h2 {
+    font-size: 16px;
+    border-bottom: 1px solid #DDDDDD;
+    text-align: left;
+}
+
+.amenities ul {
+    list-style: none;
+    padding: 0;
+}
+
+.amn_itm {
+    display: flex;
+    align-items: center;
+}
+
+.amenities .icon {
+    width: 35px;
+    height: 35px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 35px;
+    margin-bottom: 5px;
+    margin-right: 15px;
+}
+
+.amenities .tv_icon {
+    background-image: url('../images/icon_tv.png');
+}
+
+.amenities .wf_icon {
+    background-image: url('../images/icon_wifi.png');
+}
+
+.amenities .pt_icon {
+    background-image: url('../images/icon_pets.png');
+}
+
+.reviews {
+    margin-top: 40px;
+}
+
+.reviews h2 {
+    font-size: 16px;
+    border-bottom: 1px solid #DDDDDD;
+    text-align: left;
+}
+
+.reviews div {
+    margin-bottom: 20px;
+}
+
+.reviews p {
+    margin: 0;
+}
